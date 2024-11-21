@@ -1,0 +1,13 @@
+ChatGPT Chat Export
+==================================================
+
+User:
+
+	Kinda buggy arent we
+
+Assistant:
+
+	Bugs happen, but I’m here to sort things out if something isn’t working as it should. Let me know if there’s a specific issue, and I’ll get it fixed up for you! 😊
+
+
+====================================================================================================
